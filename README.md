@@ -1,4 +1,5 @@
 # ascii-codes
+[Linux] [Windows]
 
 Program wyswietla symbole (znaki) dla kodow ASCII (0-127) oraz dla rozszerzonych kodow ASCII (128-255).
 
